@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate back-end developer who loves craf
 
 ## 👀 About Me
 - 🎓 **Background**: With a strong foundation in computer science, I specialize in back-end development and am keenly interested in designing robust architectures.
-- 🛠 **Tech Stack**: I'm proficient in languages and technologies like Node.js, Python, Node.js, SQL/NoSQL databases, and Docker.
+- 🛠 **Tech Stack**: I'm proficient in languages and technologies like Node.js, Python, SQL/NoSQL databases, and Docker.
 - 🚀 **Projects**: I've worked on various projects that solve real-world problems from RESTful APIs to microservices.
 
 ## 🌱 Currently Learning
-- 🌐 **Front End Development**: Enhancing my skills with React.js and Vue.js to become a versatile full stack developer.
+- 🌐 **Front End Development**: Enhancing my skills with React.js and Vue.js to become a versatile full-stack developer.
 
 ## 💞️ Looking to Collaborate On
 - 🧩 **Open Source Projects**: Contributing to impactful open source projects.
